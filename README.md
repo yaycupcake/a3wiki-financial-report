@@ -1,7 +1,6 @@
 # A3 Wiki (yaycupcake.com) Financial Situation
 
-Easy link to Patreon:
-[patreon.com/yaycupcake](https://patreon.com/yaycupcake)
+## Easy link to Patreon: [patreon.com/yaycupcake](https://patreon.com/yaycupcake)
 
 Hello everyone, and thank you for your continued support for the A3 Wiki ([yaycupcake.com/a3](https://yaycupcake.com/a3)) over the years. This is Sei, the head administrator of the wiki, and the one who foots the bills. I am writing this up to explain to you all the current financial situation of the wiki, and the steps we as a community will need to take in order to move forward.
 
@@ -9,7 +8,11 @@ I would like to preface everything I am about to say with the fact that I fully 
 
 So here are the specifics. The wiki has grown a lot more than expected. I suspect a lot of it has to do with the English release of the game. There is a lot of traffic which has simply outgrown the old hosting package. The host company has asked me to upgrade the hosting to a VPS.
 
-The difference in price, however, is quite large. Previously, the cost has been an annual charge of around $130. (Prices for hosting are provided to me in GBP, but as I am American, and exchange rates do fluctuate, I will be giving an estimate in USD, as that's the price I will pay.) However, due to the increased traffic, and need for an upgrade to VPS, the charge would increase astronomically. It would be more akin to around $55-70 per month. So the annual cost would be $660-840, if paid monthly. That's a LOT of money, and not something I can pay out of pocket anymore!
+The difference in price, however, is quite large. Previously, the cost has been an annual charge of around $130. (Prices for hosting are provided to me in GBP, but as I am American, and exchange rates do fluctuate, I will be giving an estimate in USD, as that's the price I will pay.) However, due to the increased traffic, and need for an upgrade to VPS, the charge would increase astronomically.
+
+### It would be more akin to around $55-70 per month. So the annual cost would be $660-840, if paid monthly.
+
+That's a LOT of money, and not something I can pay out of pocket anymore!
 
 This is where Patreon comes in. I already have a Patreon set up, and it's doing fairly well. However, it's used to raise funds for multiple projects of mine, so not everything is used for yaycupcake.com. For full disclosure, I have a server where I run some reddit and discord bots from, which costs me $70/yr, and I also pay for the yaycupcake.com domain name with these funds. The domain name is relatively inexpensive, at around $15/yr though.
 
