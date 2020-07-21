@@ -1,9 +1,9 @@
 # A3 Wiki (yaycupcake.com) Financial Situation
 
 Easy link to Patreon:
-patreon.com/yaycupcake
+[patreon.com/yaycupcake](https://patreon.com/yaycupcake)
 
-Hello everyone, and thank you for your continued support for the A3 Wiki (yaycupcake.com/a3) over the years. This is Sei, the head administrator of the wiki, and the one who foots the bills. I am writing this up to explain to you all the current financial situation of the wiki, and the steps we as a community will need to take in order to move forward.
+Hello everyone, and thank you for your continued support for the A3 Wiki ([yaycupcake.com/a3](https://yaycupcake.com/a3)) over the years. This is Sei, the head administrator of the wiki, and the one who foots the bills. I am writing this up to explain to you all the current financial situation of the wiki, and the steps we as a community will need to take in order to move forward.
 
 I would like to preface everything I am about to say with the fact that I fully intend to do my best to keep the wiki up and running. I never wish for it to be lost, so I will do everything in my power to keep it afloat. However, I am currently unemployed, and do not have the financial means to keep it running forever, given the current situation of the wiki.
 
@@ -17,7 +17,7 @@ Currently, I make around $50/mo on Patreon every month. However. This does not t
 
 ### Currently, I have only around $20 in reserve funds for the site.
 
-I have a transparency spreadsheet located here: https://docs.google.com/spreadsheets/d/e/2PACX-1vTfS7YjRCWoNIxOLTgIiGjqnJ_wpAUmrVCcs5DxJaQPm_XuQAPLoRDkIw0EsyFJqpfl54eeC1rsa9DD/pubhtml
+I have a transparency spreadsheet located here: [https://docs.google.com/spreadsheets/d/e/2PACX-1vTfS7YjRCWoNIxOLTgIiGjqnJ_wpAUmrVCcs5DxJaQPm_XuQAPLoRDkIw0EsyFJqpfl54eeC1rsa9DD/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfS7YjRCWoNIxOLTgIiGjqnJ_wpAUmrVCcs5DxJaQPm_XuQAPLoRDkIw0EsyFJqpfl54eeC1rsa9DD/pubhtml)
 
 Please note that the values listed here do not take into consideration fees and taxes! So the amount I pay is actually slightly more, and the amount I receive is actually slightly less.
 
@@ -31,7 +31,7 @@ As a slight aside, I would like to mention that yaycupcake.com is a website whic
 
 I fully wish to -- and intend to -- continue supporting the A3 Wiki, FEH Special Map Guides, and other smaller parts of my site. However, I really do need your help.
 
-### If you are financially able to, and enjoy content on the A3 Wiki, please consider pledging to my Patreon, located at patreon.com/yaycupcake.
+### If you are financially able to, and enjoy content on the A3 Wiki, please consider pledging to my Patreon, located at [patreon.com/yaycupcake](https://patreon.com/yaycupcake).
 
 Any amount genuinely can and will help, even if it's only $1/mo. Please remember that this wiki is not running ads, and is financially managed by one individual (myself). I don't wish to get rich off of this, I simply want to be able to continue providing this resource to you, the community. But I can't do it alone.
 
@@ -39,7 +39,7 @@ Any amount genuinely can and will help, even if it's only $1/mo. Please remember
 
 If you need to contact me for any reason, regarding this situation, with any questions or concerns, please feel free to reach out to me via one of the channels below:
 
-- My Personal Twitter (twitter.com/XinChun93)
+- My Personal Twitter ([twitter.com/XinChun93](https://twitter.com/XinChun93))
 - Discord (Sei#2975)
 
 My DMs are open to anyone on both.
